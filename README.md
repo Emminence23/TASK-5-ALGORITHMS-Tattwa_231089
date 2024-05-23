@@ -1,6 +1,6 @@
 <h1> README </h1>
 
-(soln.exe) OR ([soln.cpp](soln.cpp) can be run on an IDE like Visual Studio code) in the same folder containing flights.csv , canceled.csv, passengers.csv (preferably offline).
+(soln.exe) OR ([soln.cpp](soln.cpp) can be run on an IDE like Visual Studio code with some extensions : C/C++ , Code Runner) in the same folder containing flights.csv , canceled.csv, passengers.csv (preferably offline).
 
 <hr>
 
